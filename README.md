@@ -4,13 +4,9 @@ A Matlab implementation of Dynamic PLDA
 
 PLDA is a popular component analysis techniques employed in tasks of classification, recognition, clustering. Here is a dynamical generalization for it, suitable to incorporate temporal dynamics (more info below).
 
-Article (summary)
+Article (summary) --> https://ibug.doc.ic.ac.uk/media/uploads/documents/dplda.pdf
 
-https://ibug.doc.ic.ac.uk/media/uploads/documents/dplda.pdf
-
-Dissertation (more detail)
-
-dissertation.pdf
+Dissertation (more detail) --> dissertation.pdf
 
 
 <b>Practice</b>
