@@ -67,9 +67,9 @@ function [eigvector, eigvalue, elapse] = LDA_Cai(gnd,options,data)
 %
 %Reference:
 %
-%   P. N. Belhumeur, J. P. Hespanha, and D. J. Kriegman, ìEigenfaces
+%   P. N. Belhumeur, J. P. Hespanha, and D. J. Kriegman, ‚ÄúEigenfaces
 %   vs. fisherfaces: recognition using class specific linear
-%   projection,î IEEE Transactions on Pattern Analysis and Machine
+%   projection,‚Äù IEEE Transactions on Pattern Analysis and Machine
 %   Intelligence, vol. 19, no. 7, pp. 711-720, July 1997.  
 %
 %   Deng Cai, Xiaofei He, Yuxiao Hu, Jiawei Han, and Thomas Huang, 
