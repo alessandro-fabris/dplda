@@ -1,8 +1,8 @@
 % Example of face identification using learned PLDA models with different
 % subspace dimensions. This produces the curve shown in the book chapter.
 %
-%   P. Li and S.J.D. Prince, ìProbabilistic Methods for Face Registration
-%   and Recognitionî, In Advances in Face Image Analysis: Techniques and
+%   P. Li and S.J.D. Prince, ‚ÄúProbabilistic Methods for Face Registration
+%   and Recognition‚Äù, In Advances in Face Image Analysis: Techniques and
 %   Technologies, Y. Zhang (eds.)  (in press).
 %
 %******************** Disclaimer *****************************************
@@ -17,11 +17,11 @@
 %
 % Plase use the citation provided below if it is useful to your research:
 %
-% S.J.D. Prince and J.H. Elder, ìProbabilistic linear discriminant analysis
-% for inferences about identity,î  ICCV, 2007.
+% S.J.D. Prince and J.H. Elder, ‚ÄúProbabilistic linear discriminant analysis
+% for inferences about identity,‚Äù  ICCV, 2007.
 %
-% P. Li and S.J.D. Prince, ìProbabilistic Methods for Face Registration and
-% Recognitionî, In Advances in Face Image Analysis: Techniques and
+% P. Li and S.J.D. Prince, ‚ÄúProbabilistic Methods for Face Registration and
+% Recognition‚Äù, In Advances in Face Image Analysis: Techniques and
 % Technologies, Y. Zhang (eds.)  (in press).
 %
 %**************************************************************************
