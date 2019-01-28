@@ -16,6 +16,3 @@ emEstimate.m performs training, identification.m takes care of classification.
 
 LDA and PLDA code also provided, can be useful for initialization and for benchmark.
 
-<b>Note</b>
-  
-Large file "dataFeatureExtraction" currently missing
